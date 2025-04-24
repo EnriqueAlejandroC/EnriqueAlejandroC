@@ -1,16 +1,34 @@
-## Hi there 👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--
-**EnriqueAlejandroC/EnriqueAlejandroC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hola 👋, Soy Enrique Alejandro</h1></summary>
+  </ul>
+</div>
+
+#
+
+## Soy un estudiante de ingenieria de software 
+
+
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy haciendo una tesis sobre los code smells e inteligencia artificial
+- 🌱 Estoy aprendiendo nuevas tecnologias de aprendizaje automático
+- 🤔 Estoy aprendiendo sobre investigaciones y redacción de articulos científicos
+
+#
+
+### Spotify Playing 🎧
+
+
+
+
+
+
+
