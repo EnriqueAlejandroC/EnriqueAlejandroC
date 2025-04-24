@@ -16,8 +16,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 Actualmente estoy haciendo una tesis sobre los code smells e inteligencia artificial
 - 🌱 Estoy aprendiendo nuevas tecnologias de aprendizaje automático
 - 🤔 Estoy aprendiendo sobre investigaciones y redacción de articulos científicos
